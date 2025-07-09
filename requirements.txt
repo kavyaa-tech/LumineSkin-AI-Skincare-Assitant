@@ -1,6 +1,6 @@
 pandas
 sentence-transformers
-pinecone-client
+pinecone
 python-dotenv
 httpx
 numpy
