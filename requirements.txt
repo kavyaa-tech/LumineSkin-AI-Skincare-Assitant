@@ -1,0 +1,12 @@
+pandas
+sentence-transformers
+pinecone-client
+python-dotenv
+httpx
+numpy
+openai  
+tqdm
+torch
+scipy  
+transformers
+groq
