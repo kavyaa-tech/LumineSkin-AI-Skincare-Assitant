@@ -7,7 +7,7 @@ import os
 from dotenv import load_dotenv
 from pinecone import Pinecone
 from sentence_transformers import SentenceTransformer
-from scripts.llm_groq import chat_with_groq  # custom Groq wrapper
+from scripts.llm_groq import chat_with_groq  
 import numpy as np
 
 load_dotenv()
