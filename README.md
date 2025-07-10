@@ -1,6 +1,6 @@
 # 💅 LumineSkin AI Skincare Assistant
 
-A Retrieval-Augmented Generation (RAG) chatbot built to **educate**, **guide**, and **personalize skincare** for customers in real time. Whether you want to suggest products, generate skin routines, or answer ingredient-specific queries this AI assistant does it with clarity and confidence.
+A Retrieval Augmented Generation (RAG) chatbot built to **educate**, **guide**, and **personalize skincare** for customers in real time. Whether you want to suggest products, generate skin routines, or answer ingredient-specific queries this AI assistant does it with clarity and confidence.
 
 ![LumineSkin Demo](ui.png)
 
@@ -8,12 +8,12 @@ A Retrieval-Augmented Generation (RAG) chatbot built to **educate**, **guide**, 
 
 ## Why LumineSkin?
 
-Most chatbots are rule-based and limited to FAQs. LumineSkin's AI assistant is powered by **RAG**, meaning it doesn't just respond — it **retrieves your brand's actual data** and **generates intelligent answers** based on it.
+Most chatbots are rule based and limited to FAQs. LumineSkin's AI assistant is powered by **RAG**, meaning it doesn't just respond it **retrieves your brand's actual data** and **generates intelligent answers** based on it.
 
 Customers can:
 - Get personalized skincare routines (morning/night)
 - Compare products & ingredients
-- Ask skin-type-specific questions
+- Ask skin ype specific questions
 - Understand how and when to use products
 - Stay within your brand ecosystem (no misleading blogs!)
 
@@ -70,11 +70,11 @@ It ensures the chatbot answers **accurately, safely, and on-brand** no hallucina
 - “What ingredients are in SunVeil SPF 50?”
 
 #Features & Deployment
-- Streamlit-based interactive UI
+- Streamlit based interactive UI
 - RAG chatbot built on real product data
 - Works with markdown, text, or CSV docs
-- Brand-safe and educative
-- Includes in-app disclaimer for medical advice
+- Brand safe and educative
+- Includes in app disclaimer for medical advice
 - Easy to plug into other industries (boutiques, cooking, wellness, etc.)
 
 # Demo & Links
@@ -92,7 +92,7 @@ Add a smart assistant to your brand
 
 Collaborate on custom AI tools
 
-📩 Let’s connect on LinkedIn I’d love to hear from you!
+📩 Let’s connect on [LinkedIn](https://www.linkedin.com/in/kavya-dataprofessional/) I’d love to hear from you!
 
 
 Disclaimer
