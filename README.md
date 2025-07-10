@@ -1,4 +1,4 @@
-#### 💅🏻 LumineSkin AI Skincare Assistant
+# 💅 LumineSkin AI Skincare Assistant
 
 A Retrieval-Augmented Generation (RAG) chatbot built to **educate**, **guide**, and **personalize skincare** for customers in real time. Whether you want to suggest products, generate skin routines, or answer ingredient-specific queries this AI assistant does it with clarity and confidence.
 
