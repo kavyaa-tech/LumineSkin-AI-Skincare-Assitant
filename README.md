@@ -78,7 +78,7 @@ It ensures the chatbot answers **accurately, safely, and on-brand** no hallucina
 - Easy to plug into other industries (boutiques, cooking, wellness, etc.)
 
 # Demo & Links
-- [Watch the Demo]()
+- [Watch the Demo](https://www.linkedin.com/posts/kavya-dataprofessional_ai-chatbots-llm-activity-7348969624929038340-fD1h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1tJxUBss09XucC0pq4zYt1UvllexDQLiQ)
 - [Live App](https://lumineskin-ai.streamlit.app/)
 
 # ✨ About the Creator
