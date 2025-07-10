@@ -2,9 +2,9 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot built to **educate**, **guide**, and **personalize skincare** for customers in real time. Whether you want to suggest products, generate skin routines, or answer ingredient-specific queries this AI assistant does it with clarity and confidence.
 
-![LumineSkin Demo Screenshot](![ui](https://github.com/user-attachments/assets/e6fce860-04e5-4986-aa47-bac07ff1919b)
+![LumineSkin Demo Screenshot](![ui](https://github.com/user-attachments/assets/da4b4d4b-88f4-469f-adf0-f5c8beddde07)
 )
-
+v
 ---
 
 ## Why LumineSkin?
